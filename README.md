@@ -1,2 +1,2 @@
 # GCSO
-game
+GCSO
